@@ -8,6 +8,8 @@ Underline
 ###### Six Hashtags
 ####### Seven Hashtags
 
+----
+
 Normal text.
 
 *Text wrapped with two stars.*
@@ -23,3 +25,9 @@ __Text wrapped with four underlines.__
 ~~Text wrapped with four tildes.~~
 
 **Text wrapped by stars with trailing space. **
+
+_Text wrapped by two underlines with **four stars** within._
+
+*Text wrapped by two stars with **four stars** within.*
+
+*Text wrapped by two stars with **four stars and space ** within.*
