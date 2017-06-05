@@ -8,7 +8,17 @@ Underline
 ###### Six Hashtags
 ####### Seven Hashtags
 
+-
+
+--
+
+---
+
 ----
+
+====
+
+____
 
 Normal text.
 
