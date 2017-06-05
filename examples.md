@@ -52,3 +52,24 @@ _Text wrapped by two underlines with **four stars** within._
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
+
+
+ one space
+ 
+  two sapces
+  
+   three spaces
+   
+    four sapces
+    
+     five spaces
+     
+      six spaces
+      
+       seven spaces
+       
+       混合兩種情況時，例如借款「共十萬九千零三十八(19038)元」另一處又稱「十萬九千零三十元」，則先以第 4 條將號碼都先排除、文字為準，再以第 5 條最低額為準，因此最後是「十萬九千零三十元」。
+
+    混合兩種情況時，例如借款「共十萬九千零三十八(19038)元」另一處又稱
+    「十萬九千零三十元」，則先以第 4 條將號碼都先排除、文字為準，再以第
+    5 條最低額為準，因此最後是「十萬九千零三十元」。
