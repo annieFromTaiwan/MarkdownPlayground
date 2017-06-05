@@ -1,6 +1,6 @@
 # Table of Contents
 
-- [Dillinger](#todos)
+- [Dillinger](#dillinger)
 - [New Features!](#new-features)
   - [Tech](#tech)
   - [Installation](#installation)
@@ -10,6 +10,7 @@
   - [Docker](#docker)
     - [Kubernetes + Google Cloud](#kubernetes--google-cloud)
   - [Todos](#todos)
+- [License](#license)
 
 
 # Dillinger
