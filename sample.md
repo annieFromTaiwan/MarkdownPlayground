@@ -1,3 +1,17 @@
+# Table of Contents
+
+- [Dillinger](#todos)
+- [New Features!](#new-features)
+  - [Tech](#tech)
+  - [Installation](#installation)
+  - [Plugins](#plugins)
+  - [Development](#development)
+    - [Building for source](#building-for-source)
+  - [Docker](#docker)
+    - [Kubernetes + Google Cloud](#kubernetes--google-cloud)
+  - [Todos](#todos)
+
+
 # Dillinger
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
